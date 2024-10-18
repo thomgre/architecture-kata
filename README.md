@@ -7,7 +7,7 @@ Tools, guidelines and sheets for an Architecture Kata session
 This worksheet will help you identify what driving architecture characteristics (“-ilities”) are critical for your system.
 ![architecture-characteristics-worksheet](https://github.com/user-attachments/assets/29e4bead-a5a9-4365-9b9c-16d3338787e4)
 
-Reference of software quality attributes
+## Software quality attributes
 <dl>
   <dt>Performance</dt>
   <dd>The amount of time it takes for the system to process a business request</dd>
