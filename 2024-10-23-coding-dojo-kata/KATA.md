@@ -2,13 +2,13 @@
 
 ## Background
 
-FreshShop, a growing retail chain with 300 stores across the world, is struggling with their current monolithic order management system. 
+FreshShop, a growing retail chain with 400 stores across the world, is struggling with their current monolithic order management system. 
 As they expand their e-commerce presence and add more fulfillment options, they need a new distributed system to handle orders across both online and physical stores.
 
 ## Current Situation
 
 - Single monolithic system handling all orders
-- 300 retail stores nationwide
+- 400 retail stores worldwide
 - 8 distribution centers
 - 1 e-commerce website
 - Orders per day: 300,000
