@@ -1,3 +1,6 @@
+Moved to: https://github.com/fresh-minds/architecture-katas
+
+
 # Coding Dojo: Architecture Kata
 Tools, guidelines and sheets for an Architecture Kata session
 
